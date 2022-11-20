@@ -1,5 +1,11 @@
 cec-mqtt-bridge
 ===============
+Differences - completed
+- lib changes in OS 
+Differences - work in progress
+- change config file location to allow docker volume
+- reduce to essential for docker image
+
 
 A HDMI-CEC / IR to MQTT bridge written in Python 3 for connecting your AV-devices to your Home Automation system. You can control and monitor power status and volume.
 
